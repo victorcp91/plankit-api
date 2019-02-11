@@ -1,0 +1,33 @@
+{
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  },
+  "name": "plankit-api",
+  "description": "API for SPA and mobile app.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorcp91/plankit-api.git"
+  },
+  "keywords": [
+    "plant",
+    "kit",
+    "plan",
+    "plankit"
+  ],
+  "author": "Victor Corrêa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorcp91/plankit-api/issues"
+  },
+  "homepage": "https://github.com/victorcp91/plankit-api#readme"
+}
